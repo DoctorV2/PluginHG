@@ -1,0 +1,24 @@
+required-players: 1
+countdown-seconds: 30
+lobby-spawn:
+  world: 'world'
+  x: 100
+  y: 100
+  z: 100
+  pitch: 60
+  yaw: 60
+arenas:
+  hg-1:
+    world: 'world'
+    x: 10
+    y: 100
+    z: 100
+    pitch: 100
+    yaw: 100
+  hg-2:
+    world: 'world'
+    x: 100
+    y: 80
+    z: 60
+    pitch: 100
+    yaw: 100

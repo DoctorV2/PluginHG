@@ -1,0 +1,4 @@
+name: PluginHG
+version: 1.0-SNAPSHOT
+main: gui.black.PluginHG.Main
+author: Spectro feio e GuiBlackGames
